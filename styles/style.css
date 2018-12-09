@@ -1,0 +1,8 @@
+body {
+  font-family: 'Roboto Mono', monospace !important;
+}
+.custom-img {
+  margin-right: auto;
+  margin-left: auto;
+  width: 8rem;
+}
